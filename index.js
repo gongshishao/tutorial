@@ -1,1 +1,1 @@
-console.log('Hello from fredy-tutorial 2!');
+console.log('Hello from fredy-tutorial 3!');
